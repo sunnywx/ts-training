@@ -1,0 +1,20 @@
+{
+  "name": "ts-training",
+  "version": "0.1.0",
+  "description": "typescript training",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ts",
+    "typescript",
+    "typing",
+    "training"
+  ],
+  "author": "sunnywx",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
